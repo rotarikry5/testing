@@ -12,6 +12,6 @@ console.log('2⁴= ' + 2 ** 4 ); // 2⁴ = 16
 let counter = 2;
 counter++; // работает как counter = counter + 1, просто запись короче
 console.log( counter ); // 3
-let counter = 2;
-counter--; // работает как counter = counter - 1, просто запись короче
-console.log( counter ); // 1
+// let counter = 2;
+// counter--; // работает как counter = counter - 1, просто запись короче
+// console.log( counter ); // 1
